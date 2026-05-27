@@ -80,3 +80,6 @@ Streamlit Dashboard
 7. Run producer.py
 8. Run spark_streaming.py
 9. Run Streamlit dashboard
+
+## Note:
+The historical datasets used in this project were generated synthetically using the generate_data.py script. Due to file size limitations, full datasets are not included in this repository. Users can regenerate the datasets by running the data generation script.
